@@ -10,7 +10,7 @@ body {
 }
 
 .intro-left {
-  background: url(../img/1.jpg);
+  background: url(../img/Sapa\ Vietnam.jpg);
   background-size: cover;
   position: fixed;
   left: 0;
@@ -21,7 +21,7 @@ body {
 
 @media (max-width: 768px) {
   .intro-left {
-    height: 30vh;
+    height: 25vh;
     margin-bottom: 0;
     position: relative;
     width: 100%;
@@ -49,7 +49,7 @@ section {
 }
 
 a {
-  color: #444;
+  color: rgb(161, 150, 150);
   text-decoration: none;
 }
 
